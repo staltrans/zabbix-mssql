@@ -96,7 +96,7 @@
                     <type>0</type>
                     <snmp_community/>
                     <snmp_oid/>
-                    <key>perf_counter[&quot;\SQLServer:Databases(_Total)\Активные транзакции&quot;]</key>
+                    <key>perf_counter[&quot;\SQLServer:Databases(_Total)\Активные транзакции&quot;,90]</key>
                     <delay>3m</delay>
                     <history>30d</history>
                     <trends>365d</trends>
@@ -155,7 +155,7 @@
                     <type>0</type>
                     <snmp_community/>
                     <snmp_oid/>
-                    <key>perf_counter[&quot;\SQLServer:Databases(_Total)\Время записи журнала на диск (мс)&quot;]</key>
+                    <key>perf_counter[&quot;\SQLServer:Databases(_Total)\Время записи журнала на диск (мс)&quot;,90]</key>
                     <delay>3m</delay>
                     <history>30d</history>
                     <trends>365d</trends>
@@ -221,7 +221,7 @@
                     <type>0</type>
                     <snmp_community/>
                     <snmp_oid/>
-                    <key>perf_counter[&quot;\SQLServer:Databases(_Total)\Время ожидания сброса журнала&quot;]</key>
+                    <key>perf_counter[&quot;\SQLServer:Databases(_Total)\Время ожидания сброса журнала&quot;,90]</key>
                     <delay>3m</delay>
                     <history>30d</history>
                     <trends>365d</trends>
@@ -280,7 +280,7 @@
                     <type>0</type>
                     <snmp_community/>
                     <snmp_oid/>
-                    <key>perf_counter[&quot;\SQLServer:Databases(_Total)\Время фиксации группы (сек)&quot;]</key>
+                    <key>perf_counter[&quot;\SQLServer:Databases(_Total)\Время фиксации группы (сек)&quot;,90]</key>
                     <delay>3m</delay>
                     <history>30d</history>
                     <trends>365d</trends>
@@ -339,7 +339,7 @@
                     <type>0</type>
                     <snmp_community/>
                     <snmp_oid/>
-                    <key>perf_counter[&quot;\SQLServer:Databases(_Total)\Записи таблицы фиксации&quot;]</key>
+                    <key>perf_counter[&quot;\SQLServer:Databases(_Total)\Записи таблицы фиксации&quot;,90]</key>
                     <delay>3m</delay>
                     <history>30d</history>
                     <trends>365d</trends>
@@ -398,7 +398,7 @@
                     <type>0</type>
                     <snmp_community/>
                     <snmp_oid/>
-                    <key>perf_counter[&quot;\SQLServer:Databases(_Total)\Запросов пула журнала в секунду&quot;]</key>
+                    <key>perf_counter[&quot;\SQLServer:Databases(_Total)\Запросов пула журнала в секунду&quot;,90]</key>
                     <delay>3m</delay>
                     <history>30d</history>
                     <trends>365d</trends>
@@ -457,7 +457,7 @@
                     <type>0</type>
                     <snmp_community/>
                     <snmp_oid/>
-                    <key>perf_counter[&quot;\SQLServer:Databases(_Total)\Использовано памяти XTP (КБ)&quot;]</key>
+                    <key>perf_counter[&quot;\SQLServer:Databases(_Total)\Использовано памяти XTP (КБ)&quot;,90]</key>
                     <delay>3m</delay>
                     <history>30d</history>
                     <trends>365d</trends>
@@ -523,7 +523,7 @@
                     <type>0</type>
                     <snmp_community/>
                     <snmp_oid/>
-                    <key>perf_counter[&quot;\SQLServer:Databases(_Total)\Используемый размер файлов журнала (КБ)&quot;]</key>
+                    <key>perf_counter[&quot;\SQLServer:Databases(_Total)\Используемый размер файлов журнала (КБ)&quot;,90]</key>
                     <delay>3m</delay>
                     <history>30d</history>
                     <trends>365d</trends>
@@ -589,7 +589,7 @@
                     <type>0</type>
                     <snmp_community/>
                     <snmp_oid/>
-                    <key>perf_counter[&quot;\SQLServer:Databases(_Total)\Коэффициент попаданий в кэш журнала&quot;]</key>
+                    <key>perf_counter[&quot;\SQLServer:Databases(_Total)\Коэффициент попаданий в кэш журнала&quot;,90]</key>
                     <delay>3m</delay>
                     <history>30d</history>
                     <trends>365d</trends>
@@ -648,7 +648,7 @@
                     <type>0</type>
                     <snmp_community/>
                     <snmp_oid/>
-                    <key>perf_counter[&quot;\SQLServer:Databases(_Total)\Неудачных обращений к кэшу пула журнала в секунду&quot;]</key>
+                    <key>perf_counter[&quot;\SQLServer:Databases(_Total)\Неудачных обращений к кэшу пула журнала в секунду&quot;,90]</key>
                     <delay>3m</delay>
                     <history>30d</history>
                     <trends>365d</trends>
@@ -707,7 +707,7 @@
                     <type>0</type>
                     <snmp_community/>
                     <snmp_oid/>
-                    <key>perf_counter[&quot;\SQLServer:Databases(_Total)\Ожиданий сброса журнала в секунду&quot;]</key>
+                    <key>perf_counter[&quot;\SQLServer:Databases(_Total)\Ожиданий сброса журнала в секунду&quot;,90]</key>
                     <delay>3m</delay>
                     <history>30d</history>
                     <trends>365d</trends>
@@ -766,7 +766,7 @@
                     <type>0</type>
                     <snmp_community/>
                     <snmp_oid/>
-                    <key>perf_counter[&quot;\SQLServer:Databases(_Total)\Операций логического просмотра DBCC, байт/с&quot;]</key>
+                    <key>perf_counter[&quot;\SQLServer:Databases(_Total)\Операций логического просмотра DBCC, байт/с&quot;,90]</key>
                     <delay>3m</delay>
                     <history>30d</history>
                     <trends>365d</trends>
@@ -825,7 +825,7 @@
                     <type>0</type>
                     <snmp_community/>
                     <snmp_oid/>
-                    <key>perf_counter[&quot;\SQLServer:Databases(_Total)\Операций чтения диска пула журнала в секунду&quot;]</key>
+                    <key>perf_counter[&quot;\SQLServer:Databases(_Total)\Операций чтения диска пула журнала в секунду&quot;,90]</key>
                     <delay>3m</delay>
                     <history>30d</history>
                     <trends>365d</trends>
@@ -884,7 +884,7 @@
                     <type>0</type>
                     <snmp_community/>
                     <snmp_oid/>
-                    <key>perf_counter[&quot;\SQLServer:Databases(_Total)\Отслеживаемых транзакций в секунду&quot;]</key>
+                    <key>perf_counter[&quot;\SQLServer:Databases(_Total)\Отслеживаемых транзакций в секунду&quot;,90]</key>
                     <delay>3m</delay>
                     <history>30d</history>
                     <trends>365d</trends>
@@ -943,7 +943,7 @@
                     <type>0</type>
                     <snmp_community/>
                     <snmp_oid/>
-                    <key>perf_counter[&quot;\SQLServer:Databases(_Total)\Перемещение сжатых данных, байт/с&quot;]</key>
+                    <key>perf_counter[&quot;\SQLServer:Databases(_Total)\Перемещение сжатых данных, байт/с&quot;,90]</key>
                     <delay>3m</delay>
                     <history>30d</history>
                     <trends>365d</trends>
@@ -1002,7 +1002,7 @@
                     <type>0</type>
                     <snmp_community/>
                     <snmp_oid/>
-                    <key>perf_counter[&quot;\SQLServer:Databases(_Total)\Пропускная способность массового копирования в секунду&quot;]</key>
+                    <key>perf_counter[&quot;\SQLServer:Databases(_Total)\Пропускная способность массового копирования в секунду&quot;,90]</key>
                     <delay>3m</delay>
                     <history>30d</history>
                     <trends>365d</trends>
@@ -1061,7 +1061,7 @@
                     <type>0</type>
                     <snmp_community/>
                     <snmp_oid/>
-                    <key>perf_counter[&quot;\SQLServer:Databases(_Total)\Пропускная способность резервного копирования или восстановления в секунду&quot;]</key>
+                    <key>perf_counter[&quot;\SQLServer:Databases(_Total)\Пропускная способность резервного копирования или восстановления в секунду&quot;,90]</key>
                     <delay>3m</delay>
                     <history>30d</history>
                     <trends>365d</trends>
@@ -1120,7 +1120,7 @@
                     <type>0</type>
                     <snmp_community/>
                     <snmp_oid/>
-                    <key>perf_counter[&quot;\SQLServer:Databases(_Total)\Процент использования журнала&quot;]</key>
+                    <key>perf_counter[&quot;\SQLServer:Databases(_Total)\Процент использования журнала&quot;,90]</key>
                     <delay>3m</delay>
                     <history>30d</history>
                     <trends>365d</trends>
@@ -1179,7 +1179,7 @@
                     <type>0</type>
                     <snmp_community/>
                     <snmp_oid/>
-                    <key>perf_counter[&quot;\SQLServer:Databases(_Total)\Размер файлов данных (КБ)&quot;]</key>
+                    <key>perf_counter[&quot;\SQLServer:Databases(_Total)\Размер файлов данных (КБ)&quot;,90]</key>
                     <delay>3m</delay>
                     <history>30d</history>
                     <trends>365d</trends>
@@ -1245,7 +1245,7 @@
                     <type>0</type>
                     <snmp_community/>
                     <snmp_oid/>
-                    <key>perf_counter[&quot;\SQLServer:Databases(_Total)\Размер файлов журнала (КБ)&quot;]</key>
+                    <key>perf_counter[&quot;\SQLServer:Databases(_Total)\Размер файлов журнала (КБ)&quot;,90]</key>
                     <delay>3m</delay>
                     <history>30d</history>
                     <trends>365d</trends>
@@ -1311,7 +1311,7 @@
                     <type>0</type>
                     <snmp_community/>
                     <snmp_oid/>
-                    <key>perf_counter[&quot;\SQLServer:Databases(_Total)\Сбросов журнала в секунду&quot;]</key>
+                    <key>perf_counter[&quot;\SQLServer:Databases(_Total)\Сбросов журнала в секунду&quot;,90]</key>
                     <delay>3m</delay>
                     <history>30d</history>
                     <trends>365d</trends>
@@ -1370,7 +1370,7 @@
                     <type>0</type>
                     <snmp_community/>
                     <snmp_oid/>
-                    <key>perf_counter[&quot;\SQLServer:Databases(_Total)\Сброшено байтов журнала в секунду&quot;]</key>
+                    <key>perf_counter[&quot;\SQLServer:Databases(_Total)\Сброшено байтов журнала в секунду&quot;,90]</key>
                     <delay>3m</delay>
                     <history>30d</history>
                     <trends>365d</trends>
@@ -1429,7 +1429,7 @@
                     <type>0</type>
                     <snmp_community/>
                     <snmp_oid/>
-                    <key>perf_counter[&quot;\SQLServer:Databases(_Total)\Сжатие журнала&quot;]</key>
+                    <key>perf_counter[&quot;\SQLServer:Databases(_Total)\Сжатие журнала&quot;,90]</key>
                     <delay>3m</delay>
                     <history>30d</history>
                     <trends>365d</trends>
@@ -1488,7 +1488,7 @@
                     <type>0</type>
                     <snmp_community/>
                     <snmp_oid/>
-                    <key>perf_counter[&quot;\SQLServer:Databases(_Total)\Скорость массового копирования, строк в секунду&quot;]</key>
+                    <key>perf_counter[&quot;\SQLServer:Databases(_Total)\Скорость массового копирования, строк в секунду&quot;,90]</key>
                     <delay>3m</delay>
                     <history>30d</history>
                     <trends>365d</trends>
@@ -1547,7 +1547,7 @@
                     <type>0</type>
                     <snmp_community/>
                     <snmp_oid/>
-                    <key>perf_counter[&quot;\SQLServer:Databases(_Total)\Скорость передачи откликов&quot;]</key>
+                    <key>perf_counter[&quot;\SQLServer:Databases(_Total)\Скорость передачи откликов&quot;,90]</key>
                     <delay>3m</delay>
                     <history>30d</history>
                     <trends>365d</trends>
@@ -1606,7 +1606,7 @@
                     <type>0</type>
                     <snmp_community/>
                     <snmp_oid/>
-                    <key>perf_counter[&quot;\SQLServer:Databases(_Total)\Точн. данных ожиданий&quot;]</key>
+                    <key>perf_counter[&quot;\SQLServer:Databases(_Total)\Точн. данных ожиданий&quot;,90]</key>
                     <delay>3m</delay>
                     <history>30d</history>
                     <trends>365d</trends>
@@ -1665,7 +1665,7 @@
                     <type>0</type>
                     <snmp_community/>
                     <snmp_oid/>
-                    <key>perf_counter[&quot;\SQLServer:Databases(_Total)\Транзакций в секунду&quot;]</key>
+                    <key>perf_counter[&quot;\SQLServer:Databases(_Total)\Транзакций в секунду&quot;,90]</key>
                     <delay>3m</delay>
                     <history>30d</history>
                     <trends>365d</trends>
@@ -1724,7 +1724,7 @@
                     <type>0</type>
                     <snmp_community/>
                     <snmp_oid/>
-                    <key>perf_counter[&quot;\SQLServer:Databases(_Total)\Транзакций записи в секунду&quot;]</key>
+                    <key>perf_counter[&quot;\SQLServer:Databases(_Total)\Транзакций записи в секунду&quot;,90]</key>
                     <delay>3m</delay>
                     <history>30d</history>
                     <trends>365d</trends>
@@ -1783,7 +1783,7 @@
                     <type>0</type>
                     <snmp_community/>
                     <snmp_oid/>
-                    <key>perf_counter[&quot;\SQLServer:Databases(_Total)\Увеличение журнала&quot;]</key>
+                    <key>perf_counter[&quot;\SQLServer:Databases(_Total)\Увеличение журнала&quot;,90]</key>
                     <delay>3m</delay>
                     <history>30d</history>
                     <trends>365d</trends>
@@ -1842,7 +1842,7 @@
                     <type>0</type>
                     <snmp_community/>
                     <snmp_oid/>
-                    <key>perf_counter[&quot;\SQLServer:Databases(_Total)\Усечения журнала&quot;]</key>
+                    <key>perf_counter[&quot;\SQLServer:Databases(_Total)\Усечения журнала&quot;,90]</key>
                     <delay>3m</delay>
                     <history>30d</history>
                     <trends>365d</trends>
@@ -1901,7 +1901,7 @@
                     <type>0</type>
                     <snmp_community/>
                     <snmp_oid/>
-                    <key>perf_counter[&quot;\SQLServer:Databases(_Total)\Чтений кэша журнала в секунду&quot;]</key>
+                    <key>perf_counter[&quot;\SQLServer:Databases(_Total)\Чтений кэша журнала в секунду&quot;,90]</key>
                     <delay>3m</delay>
                     <history>30d</history>
                     <trends>365d</trends>
@@ -1960,7 +1960,7 @@
                     <type>0</type>
                     <snmp_community/>
                     <snmp_oid/>
-                    <key>perf_counter[&quot;\Процесс(sqlservr)\% загруженности процессора&quot;]</key>
+                    <key>perf_counter[&quot;\Процесс(sqlservr)\% загруженности процессора&quot;,90]</key>
                     <delay>1m</delay>
                     <history>30d</history>
                     <trends>365d</trends>
@@ -2019,7 +2019,7 @@
                     <type>0</type>
                     <snmp_community/>
                     <snmp_oid/>
-                    <key>perf_counter[&quot;\Процесс(sqlservr)\% работы в пользовательском режиме&quot;]</key>
+                    <key>perf_counter[&quot;\Процесс(sqlservr)\% работы в пользовательском режиме&quot;,90]</key>
                     <delay>1m</delay>
                     <history>30d</history>
                     <trends>365d</trends>
@@ -2078,7 +2078,7 @@
                     <type>0</type>
                     <snmp_community/>
                     <snmp_oid/>
-                    <key>perf_counter[&quot;\Процесс(sqlservr)\% работы в привилегированном режиме&quot;]</key>
+                    <key>perf_counter[&quot;\Процесс(sqlservr)\% работы в привилегированном режиме&quot;,90]</key>
                     <delay>1m</delay>
                     <history>30d</history>
                     <trends>365d</trends>
@@ -2296,7 +2296,7 @@
                             <type>0</type>
                             <snmp_community/>
                             <snmp_oid/>
-                            <key>perf_counter[&quot;\SQLServer:Databases({#MSSQL_DATABASE_NAME})\Активные транзакции&quot;]</key>
+                            <key>perf_counter[&quot;\SQLServer:Databases({#MSSQL_DATABASE_NAME})\Активные транзакции&quot;,90]</key>
                             <delay>3m</delay>
                             <history>30d</history>
                             <trends>365d</trends>
@@ -2356,7 +2356,7 @@
                             <type>0</type>
                             <snmp_community/>
                             <snmp_oid/>
-                            <key>perf_counter[&quot;\SQLServer:Databases({#MSSQL_DATABASE_NAME})\Время записи журнала на диск (мс)&quot;]</key>
+                            <key>perf_counter[&quot;\SQLServer:Databases({#MSSQL_DATABASE_NAME})\Время записи журнала на диск (мс)&quot;,90]</key>
                             <delay>3m</delay>
                             <history>30d</history>
                             <trends>365d</trends>
@@ -2423,7 +2423,7 @@
                             <type>0</type>
                             <snmp_community/>
                             <snmp_oid/>
-                            <key>perf_counter[&quot;\SQLServer:Databases({#MSSQL_DATABASE_NAME})\Время ожидания сброса журнала&quot;]</key>
+                            <key>perf_counter[&quot;\SQLServer:Databases({#MSSQL_DATABASE_NAME})\Время ожидания сброса журнала&quot;,90]</key>
                             <delay>3m</delay>
                             <history>90d</history>
                             <trends>365d</trends>
@@ -2483,7 +2483,7 @@
                             <type>0</type>
                             <snmp_community/>
                             <snmp_oid/>
-                            <key>perf_counter[&quot;\SQLServer:Databases({#MSSQL_DATABASE_NAME})\Время фиксации группы (сек)&quot;]</key>
+                            <key>perf_counter[&quot;\SQLServer:Databases({#MSSQL_DATABASE_NAME})\Время фиксации группы (сек)&quot;,90]</key>
                             <delay>3m</delay>
                             <history>30d</history>
                             <trends>365d</trends>
@@ -2543,7 +2543,7 @@
                             <type>0</type>
                             <snmp_community/>
                             <snmp_oid/>
-                            <key>perf_counter[&quot;\SQLServer:Databases({#MSSQL_DATABASE_NAME})\Записи таблицы фиксации&quot;]</key>
+                            <key>perf_counter[&quot;\SQLServer:Databases({#MSSQL_DATABASE_NAME})\Записи таблицы фиксации&quot;,90]</key>
                             <delay>3m</delay>
                             <history>30d</history>
                             <trends>365d</trends>
@@ -2603,7 +2603,7 @@
                             <type>0</type>
                             <snmp_community/>
                             <snmp_oid/>
-                            <key>perf_counter[&quot;\SQLServer:Databases({#MSSQL_DATABASE_NAME})\Запросов пула журнала в секунду&quot;]</key>
+                            <key>perf_counter[&quot;\SQLServer:Databases({#MSSQL_DATABASE_NAME})\Запросов пула журнала в секунду&quot;,90]</key>
                             <delay>3m</delay>
                             <history>30d</history>
                             <trends>365d</trends>
@@ -2663,7 +2663,7 @@
                             <type>0</type>
                             <snmp_community/>
                             <snmp_oid/>
-                            <key>perf_counter[&quot;\SQLServer:Databases({#MSSQL_DATABASE_NAME})\Использовано памяти XTP (КБ)&quot;]</key>
+                            <key>perf_counter[&quot;\SQLServer:Databases({#MSSQL_DATABASE_NAME})\Использовано памяти XTP (КБ)&quot;,90]</key>
                             <delay>3m</delay>
                             <history>30d</history>
                             <trends>365d</trends>
@@ -2730,7 +2730,7 @@
                             <type>0</type>
                             <snmp_community/>
                             <snmp_oid/>
-                            <key>perf_counter[&quot;\SQLServer:Databases({#MSSQL_DATABASE_NAME})\Используемый размер файлов журнала (КБ)&quot;]</key>
+                            <key>perf_counter[&quot;\SQLServer:Databases({#MSSQL_DATABASE_NAME})\Используемый размер файлов журнала (КБ)&quot;,90]</key>
                             <delay>3m</delay>
                             <history>30d</history>
                             <trends>365d</trends>
@@ -2797,7 +2797,7 @@
                             <type>0</type>
                             <snmp_community/>
                             <snmp_oid/>
-                            <key>perf_counter[&quot;\SQLServer:Databases({#MSSQL_DATABASE_NAME})\Коэффициент попаданий в кэш журнала&quot;]</key>
+                            <key>perf_counter[&quot;\SQLServer:Databases({#MSSQL_DATABASE_NAME})\Коэффициент попаданий в кэш журнала&quot;,90]</key>
                             <delay>3m</delay>
                             <history>30d</history>
                             <trends>365d</trends>
@@ -2857,7 +2857,7 @@
                             <type>0</type>
                             <snmp_community/>
                             <snmp_oid/>
-                            <key>perf_counter[&quot;\SQLServer:Databases({#MSSQL_DATABASE_NAME})\Неудачных обращений к кэшу пула журнала в секунду&quot;]</key>
+                            <key>perf_counter[&quot;\SQLServer:Databases({#MSSQL_DATABASE_NAME})\Неудачных обращений к кэшу пула журнала в секунду&quot;,90]</key>
                             <delay>3m</delay>
                             <history>30d</history>
                             <trends>365d</trends>
@@ -2917,7 +2917,7 @@
                             <type>0</type>
                             <snmp_community/>
                             <snmp_oid/>
-                            <key>perf_counter[&quot;\SQLServer:Databases({#MSSQL_DATABASE_NAME})\Ожиданий сброса журнала в секунду&quot;]</key>
+                            <key>perf_counter[&quot;\SQLServer:Databases({#MSSQL_DATABASE_NAME})\Ожиданий сброса журнала в секунду&quot;,90]</key>
                             <delay>3m</delay>
                             <history>30d</history>
                             <trends>365d</trends>
@@ -2977,7 +2977,7 @@
                             <type>0</type>
                             <snmp_community/>
                             <snmp_oid/>
-                            <key>perf_counter[&quot;\SQLServer:Databases({#MSSQL_DATABASE_NAME})\Операций логического просмотра DBCC, байт/с&quot;]</key>
+                            <key>perf_counter[&quot;\SQLServer:Databases({#MSSQL_DATABASE_NAME})\Операций логического просмотра DBCC, байт/с&quot;,90]</key>
                             <delay>3m</delay>
                             <history>30d</history>
                             <trends>365d</trends>
@@ -3037,7 +3037,7 @@
                             <type>0</type>
                             <snmp_community/>
                             <snmp_oid/>
-                            <key>perf_counter[&quot;\SQLServer:Databases({#MSSQL_DATABASE_NAME})\Операций чтения диска пула журнала в секунду&quot;]</key>
+                            <key>perf_counter[&quot;\SQLServer:Databases({#MSSQL_DATABASE_NAME})\Операций чтения диска пула журнала в секунду&quot;,90]</key>
                             <delay>3m</delay>
                             <history>30d</history>
                             <trends>365d</trends>
@@ -3097,7 +3097,7 @@
                             <type>0</type>
                             <snmp_community/>
                             <snmp_oid/>
-                            <key>perf_counter[&quot;\SQLServer:Databases({#MSSQL_DATABASE_NAME})\Отслеживаемых транзакций в секунду&quot;]</key>
+                            <key>perf_counter[&quot;\SQLServer:Databases({#MSSQL_DATABASE_NAME})\Отслеживаемых транзакций в секунду&quot;,90]</key>
                             <delay>3m</delay>
                             <history>30d</history>
                             <trends>365d</trends>
@@ -3157,7 +3157,7 @@
                             <type>0</type>
                             <snmp_community/>
                             <snmp_oid/>
-                            <key>perf_counter[&quot;\SQLServer:Databases({#MSSQL_DATABASE_NAME})\Перемещение сжатых данных, байт/с&quot;]</key>
+                            <key>perf_counter[&quot;\SQLServer:Databases({#MSSQL_DATABASE_NAME})\Перемещение сжатых данных, байт/с&quot;,90]</key>
                             <delay>3m</delay>
                             <history>30d</history>
                             <trends>365d</trends>
@@ -3217,7 +3217,7 @@
                             <type>0</type>
                             <snmp_community/>
                             <snmp_oid/>
-                            <key>perf_counter[&quot;\SQLServer:Databases({#MSSQL_DATABASE_NAME})\Пропускная способность массового копирования в секунду&quot;]</key>
+                            <key>perf_counter[&quot;\SQLServer:Databases({#MSSQL_DATABASE_NAME})\Пропускная способность массового копирования в секунду&quot;,90]</key>
                             <delay>3m</delay>
                             <history>30d</history>
                             <trends>365d</trends>
@@ -3277,7 +3277,7 @@
                             <type>0</type>
                             <snmp_community/>
                             <snmp_oid/>
-                            <key>perf_counter[&quot;\SQLServer:Databases({#MSSQL_DATABASE_NAME})\Пропускная способность резервного копирования или восстановления в секунду&quot;]</key>
+                            <key>perf_counter[&quot;\SQLServer:Databases({#MSSQL_DATABASE_NAME})\Пропускная способность резервного копирования или восстановления в секунду&quot;,90]</key>
                             <delay>3m</delay>
                             <history>30d</history>
                             <trends>365d</trends>
@@ -3337,7 +3337,7 @@
                             <type>0</type>
                             <snmp_community/>
                             <snmp_oid/>
-                            <key>perf_counter[&quot;\SQLServer:Databases({#MSSQL_DATABASE_NAME})\Процент использования журнала&quot;]</key>
+                            <key>perf_counter[&quot;\SQLServer:Databases({#MSSQL_DATABASE_NAME})\Процент использования журнала&quot;,90]</key>
                             <delay>3m</delay>
                             <history>30d</history>
                             <trends>365d</trends>
@@ -3397,7 +3397,7 @@
                             <type>0</type>
                             <snmp_community/>
                             <snmp_oid/>
-                            <key>perf_counter[&quot;\SQLServer:Databases({#MSSQL_DATABASE_NAME})\Размер файлов данных (КБ)&quot;]</key>
+                            <key>perf_counter[&quot;\SQLServer:Databases({#MSSQL_DATABASE_NAME})\Размер файлов данных (КБ)&quot;,90]</key>
                             <delay>3m</delay>
                             <history>30d</history>
                             <trends>365d</trends>
@@ -3464,7 +3464,7 @@
                             <type>0</type>
                             <snmp_community/>
                             <snmp_oid/>
-                            <key>perf_counter[&quot;\SQLServer:Databases({#MSSQL_DATABASE_NAME})\Размер файлов журнала (КБ)&quot;]</key>
+                            <key>perf_counter[&quot;\SQLServer:Databases({#MSSQL_DATABASE_NAME})\Размер файлов журнала (КБ)&quot;,90]</key>
                             <delay>3m</delay>
                             <history>30d</history>
                             <trends>365d</trends>
@@ -3531,7 +3531,7 @@
                             <type>0</type>
                             <snmp_community/>
                             <snmp_oid/>
-                            <key>perf_counter[&quot;\SQLServer:Databases({#MSSQL_DATABASE_NAME})\Сбросов журнала в секунду&quot;]</key>
+                            <key>perf_counter[&quot;\SQLServer:Databases({#MSSQL_DATABASE_NAME})\Сбросов журнала в секунду&quot;,90]</key>
                             <delay>3m</delay>
                             <history>30d</history>
                             <trends>365d</trends>
@@ -3591,7 +3591,7 @@
                             <type>0</type>
                             <snmp_community/>
                             <snmp_oid/>
-                            <key>perf_counter[&quot;\SQLServer:Databases({#MSSQL_DATABASE_NAME})\Сброшено байтов журнала в секунду&quot;]</key>
+                            <key>perf_counter[&quot;\SQLServer:Databases({#MSSQL_DATABASE_NAME})\Сброшено байтов журнала в секунду&quot;,90]</key>
                             <delay>3m</delay>
                             <history>30d</history>
                             <trends>365d</trends>
@@ -3651,7 +3651,7 @@
                             <type>0</type>
                             <snmp_community/>
                             <snmp_oid/>
-                            <key>perf_counter[&quot;\SQLServer:Databases({#MSSQL_DATABASE_NAME})\Сжатие журнала&quot;]</key>
+                            <key>perf_counter[&quot;\SQLServer:Databases({#MSSQL_DATABASE_NAME})\Сжатие журнала&quot;,90]</key>
                             <delay>3m</delay>
                             <history>30d</history>
                             <trends>365d</trends>
@@ -3711,7 +3711,7 @@
                             <type>0</type>
                             <snmp_community/>
                             <snmp_oid/>
-                            <key>perf_counter[&quot;\SQLServer:Databases({#MSSQL_DATABASE_NAME})\Скорость массового копирования, строк в секунду&quot;]</key>
+                            <key>perf_counter[&quot;\SQLServer:Databases({#MSSQL_DATABASE_NAME})\Скорость массового копирования, строк в секунду&quot;,90]</key>
                             <delay>3m</delay>
                             <history>30d</history>
                             <trends>365d</trends>
@@ -3771,7 +3771,7 @@
                             <type>0</type>
                             <snmp_community/>
                             <snmp_oid/>
-                            <key>perf_counter[&quot;\SQLServer:Databases({#MSSQL_DATABASE_NAME})\Скорость передачи откликов&quot;]</key>
+                            <key>perf_counter[&quot;\SQLServer:Databases({#MSSQL_DATABASE_NAME})\Скорость передачи откликов&quot;,90]</key>
                             <delay>3m</delay>
                             <history>30d</history>
                             <trends>365d</trends>
@@ -3831,7 +3831,7 @@
                             <type>0</type>
                             <snmp_community/>
                             <snmp_oid/>
-                            <key>perf_counter[&quot;\SQLServer:Databases({#MSSQL_DATABASE_NAME})\Точн. данных ожиданий&quot;]</key>
+                            <key>perf_counter[&quot;\SQLServer:Databases({#MSSQL_DATABASE_NAME})\Точн. данных ожиданий&quot;,90]</key>
                             <delay>3m</delay>
                             <history>30d</history>
                             <trends>365d</trends>
@@ -3891,7 +3891,7 @@
                             <type>0</type>
                             <snmp_community/>
                             <snmp_oid/>
-                            <key>perf_counter[&quot;\SQLServer:Databases({#MSSQL_DATABASE_NAME})\Транзакций в секунду&quot;]</key>
+                            <key>perf_counter[&quot;\SQLServer:Databases({#MSSQL_DATABASE_NAME})\Транзакций в секунду&quot;,90]</key>
                             <delay>3m</delay>
                             <history>30d</history>
                             <trends>365d</trends>
@@ -3951,7 +3951,7 @@
                             <type>0</type>
                             <snmp_community/>
                             <snmp_oid/>
-                            <key>perf_counter[&quot;\SQLServer:Databases({#MSSQL_DATABASE_NAME})\Транзакций записи в секунду&quot;]</key>
+                            <key>perf_counter[&quot;\SQLServer:Databases({#MSSQL_DATABASE_NAME})\Транзакций записи в секунду&quot;,90]</key>
                             <delay>3m</delay>
                             <history>30d</history>
                             <trends>365d</trends>
@@ -4011,7 +4011,7 @@
                             <type>0</type>
                             <snmp_community/>
                             <snmp_oid/>
-                            <key>perf_counter[&quot;\SQLServer:Databases({#MSSQL_DATABASE_NAME})\Увеличение журнала&quot;]</key>
+                            <key>perf_counter[&quot;\SQLServer:Databases({#MSSQL_DATABASE_NAME})\Увеличение журнала&quot;,90]</key>
                             <delay>3m</delay>
                             <history>30d</history>
                             <trends>365d</trends>
@@ -4071,7 +4071,7 @@
                             <type>0</type>
                             <snmp_community/>
                             <snmp_oid/>
-                            <key>perf_counter[&quot;\SQLServer:Databases({#MSSQL_DATABASE_NAME})\Усечения журнала&quot;]</key>
+                            <key>perf_counter[&quot;\SQLServer:Databases({#MSSQL_DATABASE_NAME})\Усечения журнала&quot;,90]</key>
                             <delay>3m</delay>
                             <history>30d</history>
                             <trends>365d</trends>
@@ -4131,7 +4131,7 @@
                             <type>0</type>
                             <snmp_community/>
                             <snmp_oid/>
-                            <key>perf_counter[&quot;\SQLServer:Databases({#MSSQL_DATABASE_NAME})\Чтений кэша журнала в секунду&quot;]</key>
+                            <key>perf_counter[&quot;\SQLServer:Databases({#MSSQL_DATABASE_NAME})\Чтений кэша журнала в секунду&quot;,90]</key>
                             <delay>3m</delay>
                             <history>30d</history>
                             <trends>365d</trends>
